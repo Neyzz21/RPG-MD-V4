@@ -36,7 +36,7 @@ export async function handler(chatUpdate) {
         if (!m)
             return
         m.exp = 0
-        m.limit = false
+        m.limit = true
         try {
             // TODO: use loop to insert data instead of this
             let user = global.db.data.users[m.sender]
@@ -45,7 +45,7 @@ export async function handler(chatUpdate) {
             if (user) {
                 if (!isNumber(user.exp))
                     user.exp = 0
-                if (!isNumber(user.healt)) 
+                if (!isNumber(user.healt))
                     user.healt = 100
                 if (!isNumber(user.title)) 
                     user.title = 0
@@ -56,11 +56,11 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.laper)) 
                     user.laper = 100
                 if (!isNumber(user.limit))
-                    user.limit = 10
+                    user.limit = 1000
                 if (!isNumber(user.lastclaim))
                     user.lastclaim = 0
                 if (!isNumber(user.joinlimit)) 
-                    user.joinlimit = 1
+                    user.joinlimit = 100
                 if (!isNumber(user.pc)) 
                     user.pc = 0
                 if (!isNumber(user.ojekk)) 
@@ -103,7 +103,7 @@ export async function handler(chatUpdate) {
                     user.autolevelup = true
 
                 if (!isNumber(user.money))
-                    user.money = 0
+                    user.money = 10000
                 if (!isNumber(user.atm))
                     user.atm = 0
                 if (!isNumber(user.fullatm))
@@ -350,12 +350,12 @@ if (!isNumber(user.ayam)) user.ayam = 0
                 if (!user.lbars) 
                     user.lbars = '[▒▒▒▒▒▒▒▒▒]'
                 if (!isNumber(user.joinlimit))
-                    user.joinlimit = 0
+                    user.joinlimit = 100
             } else
                 global.db.data.users[m.sender] = {
                     exp: 0,
-                    limit: 20,
-                    lastclaim: 0,
+                    limit: 1000,
+                    lastclaim: 1,
                     registered: false,
                     spammer: 0,
                     antispam: 0,
@@ -366,7 +366,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
                     laper: 100,
                     stamina : 100,
                     pc : 0,
-                    joinlimit: 1,
+                    joinlimit: 100,
                     coin: 0,
                     age: -1,
                     regTime: -1,
@@ -393,7 +393,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
                     BannedReason: '',
 
 
-                    money: 0,
+                    money: 10000,
                     bank: 0,
                     atm: 0,
                     fullatm: 0,

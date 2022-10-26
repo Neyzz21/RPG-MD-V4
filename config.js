@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/danibotz_official'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/YTDANIBOTZ'
+global.sig = 'https://instagram'
+global.syt = 'https://youtu.be'
+global.sgh = 'https://github.com/Doramisi1'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6281348106274'
+global.swa = 'wa.me/6281368176386'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899'
-global.povo = '081352848936'
-global.pgopay = '081352848936'
-global.ppulsa = '081251549899'
-global.ppulsa2 = '081348106274'
+global.pdana = '6281368176386'
+global.povo = '6281368176386'
+global.pgopay = '6281368176386'
+global.ppulsa = '6281368176386'
+global.ppulsa2 = '6281368176386'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936'
-global.nomorown = '6281348106274'
-global.namebot = 'DaniBotzラ'
-global.nameown = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.nomorbot = '628388986298'
+global.nomorown = '6281368176386'
+global.namebot = 'ghost-botラ'
+global.nameown = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281348106274', 'ᴹᴿ᭄ DaniXd? ×፝֟͜×', 'true']
+  ['6281368176386', 'ᴹᴿ᭄ ega-ganteng? ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×' //Main Watermark
+global.wm = 'ghost-botラ | By ᴹᴿ᭄ ega-ganteng ×፝֟͜×' //Main Watermark
 global.wm2 = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.wm3 = 'DaniBotzラ | By ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.wm3 = 'ghost-Botラ | By ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `DaniBotzラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ DaniXd ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
+global.titlebot = `ghost-Botラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -116,18 +116,18 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya DaniBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya ghost-bot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ Owner tercinta saya yaitu ega ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Kalimantan, Banjar'
-global.nomorowner = 'wa.me/6281348106274'
+global.nameowner = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
+global.umurowner = '100'
+global.asalowner = 'sumatra utara, medan'
+global.nomorowner = 'wa.me/6281368176386'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
-global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
-global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧```'
+global.wait = '```lagi di proses...```'
+global.eror = '```yah erorr,mungkin karna kamu gak good looking makanya error```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'

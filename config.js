@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram'
-global.syt = 'https://youtu.be'
-global.sgh = 'https://github.com/Doramisi1'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6281368176386'
+global.sig = 'https://instagram/neyzardwinansyh'
+global.syt = 'https://youtu.be/Neyzz 21'
+global.sgh = 'https://github.com/Neyzz21'
+global.sgc = '-'
+global.swa = 'wa.me/6285875063235'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '6281368176386'
-global.povo = '6281368176386'
-global.pgopay = '6281368176386'
-global.ppulsa = '6281368176386'
-global.ppulsa2 = '6281368176386'
+global.pdana = '6287746053136'
+global.povo = '-'
+global.pgopay = '6287746053136'
+global.ppulsa = '6285875063235'
+global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/raraharsita2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628388986298'
-global.nomorown = '6281368176386'
-global.namebot = 'ghost-botラ'
-global.nameown = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
+global.nomorbot = '6287746053136'
+global.nomorown = '6285875063235'
+global.namebot = 'Zar-Botラ'
+global.nameown = 'Neyzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281368176386', 'ᴹᴿ᭄ ega-ganteng? ×፝֟͜×', 'true']
+  ['6285875063235', 'Neyzz', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'ghost-botラ | By ᴹᴿ᭄ ega-ganteng ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ DaniXd ×፝֟͜×'
-global.wm3 = 'ghost-Botラ | By ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
+global.wm = 'Zar-Botラ | By Neyzz' //Main Watermark
+global.wm2 = 'Neyzz'
+global.wm3 = 'Zar-Botラ | By Neyzz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `ghost-Botラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ ega-ganteng ×፝֟͜×'
+global.author = 'Neyzz' 
+global.packname = 'Neyzz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
